@@ -14,21 +14,6 @@ This repository showcases:
 
 ---
 
-# Repository Structure
-SignMates-Auslan-Insights/
-│
-├── docs/
-│ └── Data Management Plan.pdf
-│
-├── visualisations/
-│ ├── signmates_homepage.png
-│ └── auslan_users_map.png
-│
-├── README.md
-└── VISUALISATIONS.md
-
----
-
 # Visualisation Gallery
 
 Full gallery available here:  
